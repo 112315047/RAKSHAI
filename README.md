@@ -2,7 +2,7 @@
 
 ## Project Info
 
-**URL**: https://rescue-ai-web-ykrs.vercel.app/
+**URL**: https://rescue-ai-webb-ufmc.vercel.app/
 
 # RakshAI 🚨  
 **AI-Powered Multilingual Emergency Triage for Disaster Zones**
